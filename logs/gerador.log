@@ -1,0 +1,108 @@
+2023-05-15 09:10:46,435 - INFO - Iniciando gerador de lista invertida
+2023-05-15 09:10:46,435 - INFO - Lendo o arquivo de configuraçao
+2023-05-15 09:10:46,435 - INFO - Lendo o arquivo de configuraçao
+2023-05-15 09:10:46,436 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-15 09:10:46,609 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-15 09:10:46,819 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-15 09:10:47,204 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-15 09:10:47,505 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-15 09:10:47,756 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-15 09:10:48,150 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-15 09:10:48,203 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-15 09:10:48,203 - INFO - Tempo de execução: 1.7680633068084717
+2023-05-15 09:10:48,203 - INFO - linhas escritas: 1
+2023-05-15 09:13:20,415 - INFO - Iniciando gerador de lista invertida
+2023-05-15 09:13:20,415 - INFO - Lendo o arquivo de configuraçao
+2023-05-15 09:13:20,415 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-15 09:13:20,587 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-15 09:13:20,800 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-15 09:13:21,163 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-15 09:13:21,371 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-15 09:13:21,562 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-15 09:13:22,042 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-15 09:13:22,112 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-15 09:13:22,113 - INFO - Tempo de execução: 1.6978645324707031
+2023-05-15 09:13:22,113 - INFO - documentos lidos: 1239
+2023-05-15 09:13:22,113 - INFO - linhas escritas: 1
+2023-05-15 09:15:30,017 - INFO - Iniciando gerador de lista invertida
+2023-05-15 09:15:30,018 - INFO - Lendo o arquivo de configuraçao
+2023-05-15 09:15:30,018 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-15 09:15:30,205 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-15 09:15:30,405 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-15 09:15:30,743 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-15 09:15:30,951 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-15 09:15:31,137 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-15 09:15:31,473 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-15 09:15:31,595 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-15 09:15:31,595 - INFO - Tempo de execução: 1.5777108669281006
+2023-05-15 09:15:31,595 - INFO - documentos lidos: 1239
+2023-05-15 09:15:31,595 - INFO - linhas escritas: 1
+2023-05-15 09:15:57,430 - INFO - Iniciando gerador de lista invertida
+2023-05-15 09:15:57,430 - INFO - Lendo o arquivo de configuraçao
+2023-05-15 09:15:57,431 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-15 09:15:57,604 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-15 09:15:57,804 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-15 09:15:58,130 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-15 09:15:58,345 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-15 09:15:58,544 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-15 09:15:58,898 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-15 09:15:58,939 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-15 09:15:58,939 - INFO - Tempo de execução: 1.5089514255523682
+2023-05-15 09:15:58,939 - INFO - documentos lidos: 1239
+2023-05-15 09:15:58,939 - INFO - linhas escritas: 9285
+2023-05-16 11:54:33,705 - INFO - Iniciando gerador de lista invertida
+2023-05-16 11:54:33,706 - INFO - Lendo o arquivo de configuraçao
+2023-05-16 11:54:33,706 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-16 11:54:33,867 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-16 11:54:34,105 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-16 11:54:34,298 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-16 11:54:34,461 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-16 11:54:34,658 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-16 11:54:34,840 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-16 11:54:34,877 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-16 11:54:34,877 - INFO - documentos lidos: 1239
+2023-05-16 11:54:34,877 - INFO - linhas escritas: 9285
+2023-05-16 11:54:34,877 - INFO - Tempo de execução: 1.2282450199127197
+2023-05-16 11:54:34,877 - INFO - Fim do gerador
+2023-05-16 11:55:28,050 - INFO - Iniciando gerador de lista invertida
+2023-05-16 11:55:28,051 - INFO - Lendo o arquivo de configuraçao
+2023-05-16 11:55:28,051 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-16 11:55:28,220 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-16 11:55:28,445 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-16 11:55:28,645 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-16 11:55:28,815 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-16 11:55:29,022 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-16 11:55:29,235 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-16 11:55:29,280 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-16 11:55:29,280 - INFO - documentos lidos: 1239
+2023-05-16 11:55:29,280 - INFO - linhas escritas: 9285
+2023-05-16 11:55:29,280 - INFO - Tempo de execução: 1.2731091976165771
+2023-05-16 11:55:29,280 - INFO - Fim do gerador
+2023-05-16 11:55:54,501 - INFO - Iniciando gerador de lista invertida
+2023-05-16 11:55:54,501 - INFO - Lendo o arquivo de configuraçao
+2023-05-16 11:55:54,502 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-16 11:55:54,606 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-16 11:55:54,776 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-16 11:55:54,932 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-16 11:55:55,063 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-16 11:55:55,229 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-16 11:55:55,384 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-16 11:55:55,409 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-16 11:55:55,409 - INFO - documentos lidos: 1239
+2023-05-16 11:55:55,409 - INFO - linhas escritas: 9285
+2023-05-16 11:55:55,409 - INFO - Tempo de execução: 0.9379150867462158
+2023-05-16 11:55:55,409 - INFO - Fim do gerador
+2023-05-16 11:57:46,313 - INFO - Iniciando gerador.py 
+2023-05-16 11:57:46,314 - INFO - Lendo o arquivo de configuraçao
+2023-05-16 11:57:46,314 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-16 11:57:46,426 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-16 11:57:46,619 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-16 11:57:46,776 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-16 11:57:46,913 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-16 11:57:47,077 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-16 11:57:47,232 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-16 11:57:47,257 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-16 11:57:47,257 - INFO - documentos lidos: 1239
+2023-05-16 11:57:47,258 - INFO - linhas escritas: 9285
+2023-05-16 11:57:47,258 - INFO - Tempo de execução: 0.9802560806274414
+2023-05-16 11:57:47,258 - INFO - Fim do gerador

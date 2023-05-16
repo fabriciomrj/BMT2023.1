@@ -1,0 +1,180 @@
+2023-05-13 15:53:59,250 - INFO - Executando /home/fabricio/Documentos/Mestrado/Mineração de texto/trabalho_2/processador.py
+2023-05-13 15:53:59,251 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 15:53:59,262 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:02:22,866 - INFO - Executando o processador.py 
+2023-05-13 16:02:22,866 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:02:22,884 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:25:20,522 - INFO - Executando o processador.py 
+2023-05-13 16:25:20,522 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:25:20,534 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:27:46,925 - INFO - Executando o processador.py 
+2023-05-13 16:27:46,926 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:27:46,936 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:28:36,032 - INFO - Executando o processador.py 
+2023-05-13 16:28:36,032 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:28:36,045 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:29:23,416 - INFO - Executando o processador.py 
+2023-05-13 16:29:23,416 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:29:23,427 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:30:53,210 - INFO - Executando o processador.py 
+2023-05-13 16:30:53,210 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:30:53,221 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:32:39,540 - INFO - Executando o processador.py 
+2023-05-13 16:32:39,540 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:32:39,553 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:41:44,352 - INFO - Executando o processador.py 
+2023-05-13 16:41:44,352 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:41:44,362 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:42:11,937 - INFO - Executando o processador.py 
+2023-05-13 16:42:11,938 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:42:11,949 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:47:52,565 - INFO - Executando o processador.py 
+2023-05-13 16:47:52,566 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:47:52,576 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:52:34,054 - INFO - Executando o processador.py 
+2023-05-13 16:52:34,055 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:52:34,066 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:55:15,968 - INFO - Executando o processador.py 
+2023-05-13 16:55:15,968 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:55:15,979 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:56:54,400 - INFO - Executando o processador.py 
+2023-05-13 16:56:54,400 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:56:54,412 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 16:57:25,279 - INFO - Executando o processador.py 
+2023-05-13 16:57:25,279 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 16:57:25,294 - INFO - Abrindo o aquirvo das consultas results/consultas.csv e dos votos results/esperados.csv
+2023-05-13 17:08:37,687 - INFO - Executando o processador.py 
+2023-05-13 17:08:37,687 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-13 17:08:37,687 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-13 17:08:37,716 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-13 17:08:37,716 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-13 17:08:37,716 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-13 17:08:37,716 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-15 08:28:52,014 - INFO - Executando o processador.py 
+2023-05-15 08:28:52,014 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 08:28:52,015 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 08:28:52,069 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-15 08:28:52,070 - INFO - Tempo de execução: -0.05506753921508789
+2023-05-15 08:28:52,070 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-15 08:28:52,070 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-15 08:28:52,070 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-15 08:29:31,233 - INFO - Executando o processador.py 
+2023-05-15 08:29:31,233 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 08:29:31,233 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 08:29:31,287 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-15 08:29:31,287 - INFO - Tempo de execução: 0.05412030220031738
+2023-05-15 08:29:31,287 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-15 08:29:31,288 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-15 08:29:31,288 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-15 08:29:46,596 - INFO - Executando o processador.py 
+2023-05-15 08:29:46,597 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 08:29:46,597 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 08:29:46,650 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-15 08:29:46,650 - INFO - Tempo de execução: 0.05301094055175781
+2023-05-15 08:29:46,650 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-15 08:29:46,650 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-15 08:29:46,650 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-15 09:09:59,292 - INFO - Iniciando gerador de lista invertida
+2023-05-15 09:09:59,293 - INFO - Lendo o arquivo de configuraçao
+2023-05-15 09:09:59,293 - INFO - Lendo o arquivo de configuraçao
+2023-05-15 09:09:59,293 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-15 09:09:59,480 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-15 09:09:59,714 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-15 09:10:00,068 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-15 09:10:00,312 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-15 09:10:00,511 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-15 09:10:00,891 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-15 09:10:00,947 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-15 09:10:00,947 - INFO - Tempo de execução: 1.6548898220062256
+2023-05-15 09:10:00,947 - INFO - linhas escritas: 1
+2023-05-15 18:29:28,368 - INFO - Executando o processador.py 
+2023-05-15 18:29:28,368 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 18:29:28,368 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 18:31:49,861 - INFO - Executando o processador.py 
+2023-05-15 18:31:49,861 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 18:31:49,862 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 18:31:49,872 - INFO - Processando os arquivos
+2023-05-15 18:32:26,429 - INFO - Executando o processador.py 
+2023-05-15 18:32:26,430 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 18:32:26,430 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 18:32:26,440 - INFO - Processando os arquivos
+2023-05-15 18:32:42,232 - INFO - Executando o processador.py 
+2023-05-15 18:32:42,232 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 18:32:42,232 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 18:32:42,242 - INFO - Processando os arquivos
+2023-05-15 18:32:42,275 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-15 18:32:42,276 - INFO - Tempo de execução: 0.04337716102600098
+2023-05-15 18:32:42,276 - INFO - 4957 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-15 18:32:42,276 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-15 18:32:42,276 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-15 18:32:42,276 - INFO - Fim do processador
+2023-05-15 18:34:35,321 - INFO - Executando o processador.py 
+2023-05-15 18:34:35,321 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 18:34:35,322 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 18:34:35,334 - INFO - Processando os arquivos
+2023-05-15 18:34:35,372 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-15 18:34:35,372 - INFO - Tempo de execução: 0.05100083351135254
+2023-05-15 18:34:35,373 - INFO - 100 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-15 18:34:35,373 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-15 18:34:35,373 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-15 18:34:35,373 - INFO - Fim do processador
+2023-05-15 18:38:59,688 - INFO - Executando o processador.py 
+2023-05-15 18:38:59,689 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 18:38:59,689 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 18:38:59,700 - INFO - Processando os arquivos
+2023-05-15 18:38:59,709 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-15 18:38:59,709 - INFO - Tempo de execução: 0.019889116287231445
+2023-05-15 18:38:59,709 - INFO - 1 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-15 18:38:59,709 - INFO - 1 linhas escritas em results/consultas.csv
+2023-05-15 18:38:59,709 - INFO - 0 linhas escritas em results/esperados.csv
+2023-05-15 18:38:59,709 - INFO - Fim do processador
+2023-05-15 18:41:01,082 - INFO - Executando o processador.py 
+2023-05-15 18:41:01,082 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-15 18:41:01,082 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-15 18:41:01,093 - INFO - Processando os arquivos
+2023-05-15 18:41:01,141 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-15 18:41:01,141 - INFO - Tempo de execução: 0.059508562088012695
+2023-05-15 18:41:01,142 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-15 18:41:01,142 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-15 18:41:01,142 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-15 18:41:01,142 - INFO - Fim do processador
+2023-05-16 11:54:33,654 - INFO - Executando o processador.py 
+2023-05-16 11:54:33,655 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-16 11:54:33,656 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-16 11:54:33,665 - INFO - Processando os arquivos
+2023-05-16 11:54:33,704 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-16 11:54:33,704 - INFO - Tempo de execução: 0.056554555892944336
+2023-05-16 11:54:33,704 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-16 11:54:33,704 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-16 11:54:33,704 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-16 11:54:33,704 - INFO - Fim do processador
+2023-05-16 11:55:28,007 - INFO - Executando o processador.py 
+2023-05-16 11:55:28,007 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-16 11:55:28,008 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-16 11:55:28,018 - INFO - Processando os arquivos
+2023-05-16 11:55:28,047 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-16 11:55:28,047 - INFO - Tempo de execução: 0.041243553161621094
+2023-05-16 11:55:28,048 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-16 11:55:28,048 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-16 11:55:28,048 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-16 11:55:28,048 - INFO - Fim do processador
+2023-05-16 11:55:54,472 - INFO - Executando o processador.py 
+2023-05-16 11:55:54,472 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-16 11:55:54,472 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-16 11:55:54,479 - INFO - Processando os arquivos
+2023-05-16 11:55:54,500 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-16 11:55:54,500 - INFO - Tempo de execução: 0.029484272003173828
+2023-05-16 11:55:54,500 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-16 11:55:54,500 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-16 11:55:54,501 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-16 11:55:54,501 - INFO - Fim do processador
+2023-05-16 11:57:46,281 - INFO - Executando o processador.py 
+2023-05-16 11:57:46,281 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-16 11:57:46,281 - INFO - Abrindo o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-16 11:57:46,288 - INFO - Processando os arquivos
+2023-05-16 11:57:46,312 - INFO - Fechando o aquirvo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-16 11:57:46,312 - INFO - Tempo de execução: 0.03645157814025879
+2023-05-16 11:57:46,312 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-16 11:57:46,312 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-16 11:57:46,312 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-16 11:57:46,312 - INFO - Fim do processador

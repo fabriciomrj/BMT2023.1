@@ -1,0 +1,119 @@
+2023-05-16 10:15:20,368 - INFO - Executando o indexador
+2023-05-16 10:15:20,369 - INFO - Abrindo o arquivo de configuração
+2023-05-16 10:15:20,370 - INFO - fechando o arquivo de configuração
+2023-05-16 10:15:20,370 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 10:15:20,788 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-16 10:15:20,788 - INFO - linhas lidas 9285
+2023-05-16 10:15:20,788 - INFO - palavras lidas 9268
+2023-05-16 10:15:20,789 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 10:15:21,187 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-16 10:15:21,187 - INFO - Palavras lidas 70360
+2023-05-16 10:15:21,187 - INFO - Tempo de execução: 0.8182640075683594
+2023-05-16 10:15:21,187 - INFO - Fim do inbdexador
+2023-05-16 10:21:15,914 - INFO - Executando o indexador
+2023-05-16 10:21:15,914 - INFO - Abrindo o arquivo de configuração
+2023-05-16 10:21:15,915 - INFO - fechando o arquivo de configuração
+2023-05-16 10:21:15,915 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 10:21:16,301 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-16 10:21:16,301 - INFO - linhas lidas 9285
+2023-05-16 10:21:16,301 - INFO - palavras lidas 9268
+2023-05-16 10:21:16,302 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 10:21:16,641 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-16 10:21:16,641 - INFO - Palavras escritas 70360
+2023-05-16 10:21:16,641 - INFO - Tempo de execução: 0.7269172668457031
+2023-05-16 10:21:16,641 - INFO - Fim do inbdexador
+2023-05-16 10:32:28,311 - INFO - Executando o indexador
+2023-05-16 10:32:28,311 - INFO - Abrindo o arquivo de configuração
+2023-05-16 10:32:28,311 - INFO - fechando o arquivo de configuração
+2023-05-16 10:32:28,311 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 10:32:28,693 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-16 10:32:28,694 - INFO - linhas lidas 9285
+2023-05-16 10:32:28,694 - INFO - palavras lidas 9268
+2023-05-16 10:32:28,695 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 10:32:29,025 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-16 10:32:29,025 - INFO - Palavras escritas 70360
+2023-05-16 10:32:29,025 - INFO - Tempo de execução: 0.7141485214233398
+2023-05-16 10:32:29,026 - INFO - Fim do inbdexador
+2023-05-16 10:47:42,195 - INFO - Executando o indexador
+2023-05-16 10:47:42,196 - INFO - Abrindo o arquivo de configuração
+2023-05-16 10:48:41,028 - INFO - Executando o indexador
+2023-05-16 10:48:41,028 - INFO - Abrindo o arquivo de configuração
+2023-05-16 10:50:03,113 - INFO - Executando o indexador
+2023-05-16 10:50:03,113 - INFO - Abrindo o arquivo de configuração
+2023-05-16 10:50:36,275 - INFO - Executando o indexador
+2023-05-16 10:50:36,275 - INFO - Abrindo o arquivo de configuração
+2023-05-16 10:50:36,275 - INFO - tf-idf maximo
+2023-05-16 10:50:36,275 - INFO - fechando o arquivo de configuração
+2023-05-16 10:50:36,275 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 10:50:36,656 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-16 10:50:36,656 - INFO - linhas lidas 9285
+2023-05-16 10:50:36,656 - INFO - palavras lidas 9268
+2023-05-16 10:50:36,657 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 10:50:36,965 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-16 10:50:36,965 - INFO - Palavras escritas 70360
+2023-05-16 10:50:36,965 - INFO - Tempo de execução: 0.6902029514312744
+2023-05-16 10:50:36,965 - INFO - Fim do inbdexador
+2023-05-16 11:35:52,645 - INFO - Executando o buscador
+2023-05-16 11:35:52,645 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:35:52,646 - INFO - fechando o arquivo de configuração
+2023-05-16 11:35:52,646 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-16 11:35:52,821 - INFO - Fechando o arquivo de results/model.csv
+2023-05-16 11:35:52,821 - INFO - linhas lidas 70360
+2023-05-16 11:35:52,821 - INFO - Abrindo o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:35:54,036 - INFO - Fechando o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:35:54,036 - INFO - linhas lidas 99
+2023-05-16 11:35:54,036 - INFO - linhas escritas 81370
+2023-05-16 11:35:54,036 - INFO - Tempo de execução: 1.3912477493286133
+2023-05-16 11:35:54,036 - INFO - Fim do inbdexador
+2023-05-16 11:54:34,882 - INFO - Executando o indexador
+2023-05-16 11:54:34,882 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:54:34,883 - INFO - tf-idf maximo
+2023-05-16 11:54:34,883 - INFO - fechando o arquivo de configuração
+2023-05-16 11:54:34,883 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 11:54:35,174 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-16 11:54:35,175 - INFO - linhas lidas 9285
+2023-05-16 11:54:35,175 - INFO - palavras lidas 9268
+2023-05-16 11:54:35,175 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 11:54:35,412 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-16 11:54:35,412 - INFO - Palavras escritas 70360
+2023-05-16 11:54:35,412 - INFO - Tempo de execução: 1.7604801654815674
+2023-05-16 11:54:35,412 - INFO - Fim do inbdexador
+2023-05-16 11:55:29,286 - INFO - Executando o indexador
+2023-05-16 11:55:29,286 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:55:29,286 - INFO - tf-idf maximo
+2023-05-16 11:55:29,286 - INFO - fechando o arquivo de configuração
+2023-05-16 11:55:29,286 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 11:55:29,643 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-16 11:55:29,643 - INFO - linhas lidas 9285
+2023-05-16 11:55:29,643 - INFO - palavras lidas 9268
+2023-05-16 11:55:29,643 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 11:55:29,940 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-16 11:55:29,940 - INFO - Palavras escritas 70360
+2023-05-16 11:55:29,941 - INFO - Tempo de execução: 1.9334394931793213
+2023-05-16 11:55:29,941 - INFO - Fim do inbdexador
+2023-05-16 11:55:55,413 - INFO - Executando o indexador
+2023-05-16 11:55:55,413 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:55:55,413 - INFO - tf-idf maximo
+2023-05-16 11:55:55,413 - INFO - fechando o arquivo de configuração
+2023-05-16 11:55:55,413 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 11:55:55,642 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-16 11:55:55,643 - INFO - linhas lidas 9285
+2023-05-16 11:55:55,643 - INFO - palavras lidas 9268
+2023-05-16 11:55:55,643 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 11:55:55,861 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-16 11:55:55,861 - INFO - Palavras escritas 70360
+2023-05-16 11:55:55,861 - INFO - Tempo de execução: 1.3894410133361816
+2023-05-16 11:55:55,861 - INFO - Fim do inbdexador
+2023-05-16 11:57:47,261 - INFO - Executando o indexador.py
+2023-05-16 11:57:47,261 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:57:47,261 - INFO - tf-idf maximo
+2023-05-16 11:57:47,261 - INFO - fechando o arquivo de configuração
+2023-05-16 11:57:47,261 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 11:57:47,506 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-16 11:57:47,506 - INFO - linhas lidas 9285
+2023-05-16 11:57:47,506 - INFO - palavras lidas 9268
+2023-05-16 11:57:47,506 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-16 11:57:47,707 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-16 11:57:47,707 - INFO - Palavras escritas 70360
+2023-05-16 11:57:47,707 - INFO - Tempo de execução: 1.4282357692718506
+2023-05-16 11:57:47,707 - INFO - Fim do inbdexador

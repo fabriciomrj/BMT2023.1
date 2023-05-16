@@ -1,0 +1,8 @@
+arquivo model.csv representa cada palavra em um documento e seu peso calculado atraves do tf-idf
+
+No arquivo index.cfg existe uma linha de configuraçao para trocar a formula do tf-idf
+Por padrao utiliza o tf max e idf padrão.
+Esta configuração facilita a troca de formula posteriormente.
+
+No Arquivo de resultado podemos ver dadas as querys qual é o documento mais relevante.
+calculados pelo coseno.

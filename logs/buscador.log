@@ -1,0 +1,60 @@
+2023-05-16 11:36:50,386 - INFO - Executando o buscador
+2023-05-16 11:36:50,386 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:36:50,386 - INFO - fechando o arquivo de configuração
+2023-05-16 11:36:50,386 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-16 11:36:50,549 - INFO - Fechando o arquivo de results/model.csv
+2023-05-16 11:36:50,549 - INFO - linhas lidas 70360
+2023-05-16 11:36:50,550 - INFO - Abrindo o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:36:51,751 - INFO - Fechando o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:36:51,751 - INFO - linhas lidas 99
+2023-05-16 11:36:51,751 - INFO - linhas escritas 81370
+2023-05-16 11:36:51,751 - INFO - Tempo de execução: 1.3651635646820068
+2023-05-16 11:36:51,751 - INFO - Fim do Buscador
+2023-05-16 11:54:35,415 - INFO - Executando o buscador
+2023-05-16 11:54:35,416 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:54:35,416 - INFO - fechando o arquivo de configuração
+2023-05-16 11:54:35,416 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-16 11:54:35,648 - INFO - Fechando o arquivo de results/model.csv
+2023-05-16 11:54:35,648 - INFO - linhas lidas 70360
+2023-05-16 11:54:35,648 - INFO - Abrindo o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:54:36,783 - INFO - Fechando o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:54:36,784 - INFO - linhas lidas 99
+2023-05-16 11:54:36,784 - INFO - linhas escritas 81370
+2023-05-16 11:54:36,784 - INFO - Tempo de execução: 3.129734754562378
+2023-05-16 11:54:36,784 - INFO - Fim do Buscador
+2023-05-16 11:55:29,943 - INFO - Executando o buscador
+2023-05-16 11:55:29,944 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:55:29,944 - INFO - fechando o arquivo de configuração
+2023-05-16 11:55:29,944 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-16 11:55:30,178 - INFO - Fechando o arquivo de results/model.csv
+2023-05-16 11:55:30,178 - INFO - linhas lidas 70360
+2023-05-16 11:55:30,179 - INFO - Abrindo o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:55:31,436 - INFO - Fechando o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:55:31,436 - INFO - linhas lidas 99
+2023-05-16 11:55:31,436 - INFO - linhas escritas 81370
+2023-05-16 11:55:31,436 - INFO - Tempo de execução: 3.4291393756866455
+2023-05-16 11:55:31,436 - INFO - Fim do Buscador
+2023-05-16 11:55:55,864 - INFO - Executando o buscador
+2023-05-16 11:55:55,864 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:55:55,864 - INFO - fechando o arquivo de configuração
+2023-05-16 11:55:55,865 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-16 11:55:56,045 - INFO - Fechando o arquivo de results/model.csv
+2023-05-16 11:55:56,046 - INFO - linhas lidas 70360
+2023-05-16 11:55:56,047 - INFO - Abrindo o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:55:57,286 - INFO - Fechando o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:55:57,286 - INFO - linhas lidas 99
+2023-05-16 11:55:57,286 - INFO - linhas escritas 81370
+2023-05-16 11:55:57,286 - INFO - Tempo de execução: 2.8146798610687256
+2023-05-16 11:55:57,287 - INFO - Fim do Buscador
+2023-05-16 11:57:47,710 - INFO - Executando o buscador.py
+2023-05-16 11:57:47,710 - INFO - Abrindo o arquivo de configuração
+2023-05-16 11:57:47,710 - INFO - fechando o arquivo de configuração
+2023-05-16 11:57:47,710 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-16 11:57:47,869 - INFO - Fechando o arquivo de results/model.csv
+2023-05-16 11:57:47,869 - INFO - linhas lidas 70360
+2023-05-16 11:57:47,869 - INFO - Abrindo o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:57:48,974 - INFO - Fechando o arquivo  results/consultas.csv e results/results.csv
+2023-05-16 11:57:48,974 - INFO - linhas lidas 99
+2023-05-16 11:57:48,974 - INFO - linhas escritas 81370
+2023-05-16 11:57:48,974 - INFO - Tempo de execução: 2.693676710128784
+2023-05-16 11:57:48,974 - INFO - Fim do Buscador
