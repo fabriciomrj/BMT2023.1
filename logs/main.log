@@ -102,3 +102,327 @@
 2023-05-16 11:57:48,974 - INFO - Fim do Buscador
 2023-05-16 11:57:48,978 - INFO - Tempo de execução: 2.697582960128784
 2023-05-16 11:57:48,978 - INFO - Fim do Programa
+2023-05-23 16:13:56,433 - INFO - Iniciando o Programa
+2023-05-23 16:13:56,433 - INFO - Executando o processador.py 
+2023-05-23 16:13:56,434 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-23 16:13:56,434 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-23 16:13:56,435 - INFO - Abrindo o aquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-23 16:13:56,441 - INFO - Processando os arquivos
+2023-05-23 16:13:56,474 - INFO - Fechando o arquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-23 16:13:56,474 - INFO - Tempo de execução: 0.0454864501953125
+2023-05-23 16:13:56,474 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-23 16:13:56,474 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-23 16:13:56,474 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-23 16:13:56,474 - INFO - Fim do processador
+2023-05-23 16:13:56,475 - INFO - Iniciando gerador.py 
+2023-05-23 16:13:56,476 - INFO - Lendo o arquivo de configuraçao
+2023-05-23 16:13:56,476 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-23 16:13:56,476 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-23 16:13:56,789 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-23 16:13:57,223 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-23 16:13:57,715 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-23 16:13:58,141 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-23 16:13:58,538 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-23 16:13:59,109 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-23 16:13:59,131 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-23 16:13:59,131 - INFO - documentos lidos: 1239
+2023-05-23 16:13:59,131 - INFO - linhas escritas: 6406
+2023-05-23 16:13:59,132 - INFO - Tempo de execução: 2.701230525970459
+2023-05-23 16:13:59,132 - INFO - Fim do gerador
+2023-05-23 16:13:59,135 - INFO - Executando o indexador.py
+2023-05-23 16:13:59,167 - INFO - Abrindo o arquivo de configuração
+2023-05-23 16:13:59,168 - INFO - tf-idf maximo
+2023-05-23 16:13:59,168 - INFO - fechando o arquivo de configuração
+2023-05-23 16:13:59,168 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 16:13:59,380 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-23 16:13:59,380 - INFO - linhas lidas 6406
+2023-05-23 16:13:59,380 - INFO - palavras lidas 6389
+2023-05-23 16:13:59,382 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 16:13:59,570 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-23 16:13:59,570 - INFO - Palavras escritas 67111
+2023-05-23 16:13:59,570 - INFO - Tempo de execução: 3.1382994651794434
+2023-05-23 16:13:59,570 - INFO - Fim do inbdexador
+2023-05-23 16:13:59,572 - INFO - Executando o buscador.py
+2023-05-23 16:13:59,572 - INFO - Abrindo o arquivo de configuração
+2023-05-23 16:13:59,572 - INFO - fechando o arquivo de configuração
+2023-05-23 16:13:59,572 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 16:13:59,729 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 16:13:59,729 - INFO - linhas lidas 67111
+2023-05-23 16:13:59,730 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 16:14:00,964 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 16:14:00,964 - INFO - linhas lidas 99
+2023-05-23 16:14:00,964 - INFO - linhas escritas 87945
+2023-05-23 16:14:00,964 - INFO - Tempo de execução: 4.531604290008545
+2023-05-23 16:14:00,964 - INFO - Fim do Buscador
+2023-05-23 16:14:00,967 - INFO - Tempo de execução: 4.5346667766571045
+2023-05-23 16:14:00,967 - INFO - Fim do Programa
+2023-05-23 19:53:44,482 - INFO - Iniciando o Programa
+2023-05-23 19:53:44,482 - INFO - Executando o processador.py 
+2023-05-23 19:53:44,482 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-23 19:53:44,483 - INFO - Escolhida a configuração de não fazer stemming das consultas
+2023-05-23 19:53:44,483 - INFO - Abrindo o aquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-23 19:53:44,494 - INFO - Processando os arquivos
+2023-05-23 19:53:44,532 - INFO - Fechando o arquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-23 19:53:44,532 - INFO - Tempo de execução: 0.05251502990722656
+2023-05-23 19:53:44,532 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-23 19:53:44,532 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-23 19:53:44,532 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-23 19:53:44,532 - INFO - Fim do processador
+2023-05-23 19:53:44,534 - INFO - Iniciando gerador.py 
+2023-05-23 19:53:44,534 - INFO - Lendo o arquivo de configuraçao
+2023-05-23 19:53:44,534 - INFO - Escolhida a configuração de não fazer stemming das consultas
+2023-05-23 19:53:44,534 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-23 19:53:44,724 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-23 19:53:45,026 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-23 19:53:45,275 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-23 19:53:45,486 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-23 19:53:45,812 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-23 19:53:46,058 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-23 19:53:46,098 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-23 19:53:46,098 - INFO - documentos lidos: 1239
+2023-05-23 19:53:46,098 - INFO - linhas escritas: 9285
+2023-05-23 19:53:46,099 - INFO - Tempo de execução: 1.617973804473877
+2023-05-23 19:53:46,099 - INFO - Fim do gerador
+2023-05-23 19:53:46,104 - INFO - Executando o indexador.py
+2023-05-23 19:53:46,105 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:53:46,105 - INFO - tf-idf maximo
+2023-05-23 19:53:46,105 - INFO - fechando o arquivo de configuração
+2023-05-23 19:53:46,105 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:53:46,464 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:53:46,464 - INFO - linhas lidas 9285
+2023-05-23 19:53:46,464 - INFO - palavras lidas 9268
+2023-05-23 19:53:46,464 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:53:46,824 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:53:46,824 - INFO - Palavras escritas 70360
+2023-05-23 19:53:46,825 - INFO - Tempo de execução: 2.343177556991577
+2023-05-23 19:53:46,825 - INFO - Fim do inbdexador
+2023-05-23 19:53:46,829 - INFO - Executando o buscador.py
+2023-05-23 19:53:46,829 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:53:46,829 - INFO - fechando o arquivo de configuração
+2023-05-23 19:53:46,830 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 19:53:47,082 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 19:53:47,082 - INFO - linhas lidas 70360
+2023-05-23 19:53:47,083 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 19:53:48,839 - INFO - Fechando o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 19:53:48,840 - INFO - linhas lidas 99
+2023-05-23 19:53:48,840 - INFO - linhas escritas 81370
+2023-05-23 19:53:48,840 - INFO - Tempo de execução: 4.358081102371216
+2023-05-23 19:53:48,840 - INFO - Fim do Buscador
+2023-05-23 19:53:48,845 - INFO - Tempo de execução: 4.363440275192261
+2023-05-23 19:53:48,845 - INFO - Fim do Programa
+2023-05-23 19:56:35,947 - INFO - Iniciando o Programa
+2023-05-23 19:56:35,947 - INFO - Executando o processador.py 
+2023-05-23 19:56:35,948 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-23 19:56:35,948 - INFO - Escolhida a configuração de não fazer stemming das consultas
+2023-05-23 19:56:35,948 - INFO - Abrindo o aquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-23 19:56:35,959 - INFO - Processando os arquivos
+2023-05-23 19:56:36,002 - INFO - Fechando o arquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-23 19:56:36,003 - INFO - Tempo de execução: 0.06139707565307617
+2023-05-23 19:56:36,003 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-23 19:56:36,003 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-23 19:56:36,003 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-23 19:56:36,003 - INFO - Fim do processador
+2023-05-23 19:56:36,004 - INFO - Iniciando gerador.py 
+2023-05-23 19:56:36,004 - INFO - Lendo o arquivo de configuraçao
+2023-05-23 19:56:36,005 - INFO - Escolhida a configuração de não fazer stemming das consultas
+2023-05-23 19:56:36,005 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-23 19:56:36,186 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-23 19:56:36,489 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-23 19:56:36,801 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-23 19:56:37,007 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-23 19:56:37,342 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-23 19:56:37,599 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-23 19:56:37,638 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-23 19:56:37,638 - INFO - documentos lidos: 1239
+2023-05-23 19:56:37,638 - INFO - linhas escritas: 9285
+2023-05-23 19:56:37,638 - INFO - Tempo de execução: 1.696044921875
+2023-05-23 19:56:37,638 - INFO - Fim do gerador
+2023-05-23 19:56:37,644 - INFO - Executando o indexador.py
+2023-05-23 19:56:37,645 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:56:37,645 - INFO - tf-idf maximo
+2023-05-23 19:56:37,645 - INFO - fechando o arquivo de configuração
+2023-05-23 19:56:37,645 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:56:37,998 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:56:37,998 - INFO - linhas lidas 9285
+2023-05-23 19:56:37,998 - INFO - palavras lidas 9135
+2023-05-23 19:56:37,999 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:56:38,326 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:56:38,326 - INFO - Palavras escritas 69298
+2023-05-23 19:56:38,326 - INFO - Tempo de execução: 2.3817386627197266
+2023-05-23 19:56:38,327 - INFO - Fim do inbdexador
+2023-05-23 19:56:38,330 - INFO - Executando o buscador.py
+2023-05-23 19:56:38,331 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:56:38,331 - INFO - fechando o arquivo de configuração
+2023-05-23 19:56:38,331 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 19:56:38,588 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 19:56:38,588 - INFO - linhas lidas 69298
+2023-05-23 19:56:38,589 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 19:56:40,006 - INFO - Fechando o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 19:56:40,006 - INFO - linhas lidas 99
+2023-05-23 19:56:40,006 - INFO - linhas escritas 68326
+2023-05-23 19:56:40,006 - INFO - Tempo de execução: 4.058709621429443
+2023-05-23 19:56:40,006 - INFO - Fim do Buscador
+2023-05-23 19:56:40,011 - INFO - Tempo de execução: 4.063934564590454
+2023-05-23 19:56:40,011 - INFO - Fim do Programa
+2023-05-23 19:57:14,353 - INFO - Iniciando o Programa
+2023-05-23 19:57:14,353 - INFO - Executando o processador.py 
+2023-05-23 19:57:14,353 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-23 19:57:14,354 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-23 19:57:14,354 - INFO - Abrindo o aquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-23 19:57:14,367 - INFO - Processando os arquivos
+2023-05-23 19:57:14,425 - INFO - Fechando o arquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-23 19:57:14,425 - INFO - Tempo de execução: 0.07379031181335449
+2023-05-23 19:57:14,426 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-23 19:57:14,426 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-23 19:57:14,426 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-23 19:57:14,426 - INFO - Fim do processador
+2023-05-23 19:57:14,427 - INFO - Iniciando gerador.py 
+2023-05-23 19:57:14,428 - INFO - Lendo o arquivo de configuraçao
+2023-05-23 19:57:14,428 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-23 19:57:14,428 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-23 19:57:14,939 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-23 19:57:15,678 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-23 19:57:16,456 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-23 19:57:17,067 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-23 19:57:17,616 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-23 19:57:18,550 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-23 19:57:18,588 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-23 19:57:18,589 - INFO - documentos lidos: 1239
+2023-05-23 19:57:18,589 - INFO - linhas escritas: 6406
+2023-05-23 19:57:18,589 - INFO - Tempo de execução: 4.236447334289551
+2023-05-23 19:57:18,589 - INFO - Fim do gerador
+2023-05-23 19:57:18,594 - INFO - Executando o indexador.py
+2023-05-23 19:57:18,595 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:57:18,595 - INFO - tf-idf maximo
+2023-05-23 19:57:18,595 - INFO - fechando o arquivo de configuração
+2023-05-23 19:57:18,595 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:57:18,923 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:57:18,924 - INFO - linhas lidas 6406
+2023-05-23 19:57:18,924 - INFO - palavras lidas 6241
+2023-05-23 19:57:18,924 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:57:19,223 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:57:19,223 - INFO - Palavras escritas 65970
+2023-05-23 19:57:19,224 - INFO - Tempo de execução: 4.870663166046143
+2023-05-23 19:57:19,224 - INFO - Fim do inbdexador
+2023-05-23 19:57:19,227 - INFO - Executando o buscador.py
+2023-05-23 19:57:19,228 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:57:19,228 - INFO - fechando o arquivo de configuração
+2023-05-23 19:57:19,228 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 19:57:19,461 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 19:57:19,461 - INFO - linhas lidas 65970
+2023-05-23 19:57:19,462 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 19:57:21,156 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 19:57:21,156 - INFO - linhas lidas 99
+2023-05-23 19:57:21,156 - INFO - linhas escritas 76823
+2023-05-23 19:57:21,156 - INFO - Tempo de execução: 6.803253173828125
+2023-05-23 19:57:21,156 - INFO - Fim do Buscador
+2023-05-23 19:57:21,163 - INFO - Tempo de execução: 6.809805631637573
+2023-05-23 19:57:21,163 - INFO - Fim do Programa
+2023-05-24 07:58:22,410 - INFO - Iniciando o Programa
+2023-05-24 07:58:22,411 - INFO - Executando o processador.py 
+2023-05-24 07:58:22,411 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-24 07:58:22,412 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 07:58:22,412 - INFO - Abrindo o aquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-24 07:58:22,422 - INFO - Processando os arquivos
+2023-05-24 07:58:22,474 - INFO - Fechando o arquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-24 07:58:22,474 - INFO - Tempo de execução: 0.06823205947875977
+2023-05-24 07:58:22,474 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-24 07:58:22,475 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 07:58:22,475 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 07:58:22,475 - INFO - Fim do processador
+2023-05-24 07:58:22,476 - INFO - Iniciando gerador.py 
+2023-05-24 07:58:22,476 - INFO - Lendo o arquivo de configuraçao
+2023-05-24 07:58:22,476 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 07:58:22,476 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-24 07:58:22,956 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-24 07:58:23,676 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-24 07:58:24,415 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-24 07:58:25,048 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-24 07:58:25,630 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-24 07:58:26,533 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-24 07:58:26,572 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-24 07:58:26,572 - INFO - documentos lidos: 1239
+2023-05-24 07:58:26,572 - INFO - linhas escritas: 6406
+2023-05-24 07:58:26,572 - INFO - Tempo de execução: 4.165196180343628
+2023-05-24 07:58:26,572 - INFO - Fim do gerador
+2023-05-24 07:58:26,578 - INFO - Executando o indexador.py
+2023-05-24 07:58:26,606 - INFO - Abrindo o arquivo de configuração
+2023-05-24 07:58:26,607 - INFO - tf-idf maximo
+2023-05-24 07:58:26,607 - INFO - fechando o arquivo de configuração
+2023-05-24 07:58:26,607 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-24 07:58:26,935 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-24 07:58:26,935 - INFO - linhas lidas 6406
+2023-05-24 07:58:26,935 - INFO - palavras lidas 6241
+2023-05-24 07:58:26,984 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-24 07:58:27,509 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-24 07:58:27,509 - INFO - Palavras escritas 65970
+2023-05-24 07:58:27,509 - INFO - Tempo de execução: 5.101422548294067
+2023-05-24 07:58:27,510 - INFO - Fim do inbdexador
+2023-05-24 07:58:27,513 - INFO - Executando o buscador.py
+2023-05-24 07:58:27,514 - INFO - Abrindo o arquivo de configuração
+2023-05-24 07:58:27,514 - INFO - fechando o arquivo de configuração
+2023-05-24 07:58:27,515 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-24 07:58:27,928 - INFO - Fechando o arquivo de results/model.csv
+2023-05-24 07:58:27,928 - INFO - linhas lidas 65970
+2023-05-24 07:58:27,929 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-24 07:58:29,529 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-24 07:58:29,529 - INFO - linhas lidas 99
+2023-05-24 07:58:29,529 - INFO - linhas escritas 990
+2023-05-24 07:58:29,529 - INFO - Tempo de execução: 7.11917781829834
+2023-05-24 07:58:29,529 - INFO - Fim do Buscador
+2023-05-24 07:58:29,534 - INFO - Tempo de execução: 7.12350058555603
+2023-05-24 07:58:29,534 - INFO - Fim do Programa
+2023-05-24 08:04:38,419 - INFO - Iniciando o Programa
+2023-05-24 08:04:38,419 - INFO - Executando o processador.py 
+2023-05-24 08:04:38,419 - INFO - Abrindo o aquirvo de configuração PC.CFG
+2023-05-24 08:04:38,419 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 08:04:38,419 - INFO - Abrindo o aquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv  e esperados results/esperados.csv
+2023-05-24 08:04:38,429 - INFO - Processando os arquivos
+2023-05-24 08:04:38,489 - INFO - Fechando o arquivo xml CysticFibrosis2-20230424/data/cfquery.xml, consultas results/consultas.csv e esperados results/esperados.csv
+2023-05-24 08:04:38,489 - INFO - Tempo de execução: 0.07458043098449707
+2023-05-24 08:04:38,489 - INFO - 99 dados lidos do arquivo CysticFibrosis2-20230424/data/cfquery.xml
+2023-05-24 08:04:38,489 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 08:04:38,489 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 08:04:38,490 - INFO - Fim do processador
+2023-05-24 08:04:38,491 - INFO - Iniciando gerador.py 
+2023-05-24 08:04:38,492 - INFO - Lendo o arquivo de configuraçao
+2023-05-24 08:04:38,492 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 08:04:38,492 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf74.xml
+2023-05-24 08:04:39,003 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf75.xml
+2023-05-24 08:04:39,709 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf76.xml
+2023-05-24 08:04:40,490 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf77.xml
+2023-05-24 08:04:41,131 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf78.xml
+2023-05-24 08:04:41,691 - INFO - Lendo o arquivo xmlCysticFibrosis2-20230424/data/cf79.xml
+2023-05-24 08:04:42,556 - INFO - Abrindo o arquivo results/inverted_list.csv
+2023-05-24 08:04:42,592 - INFO - fechando o arquivo results/inverted_list.csv
+2023-05-24 08:04:42,592 - INFO - documentos lidos: 1239
+2023-05-24 08:04:42,592 - INFO - linhas escritas: 6406
+2023-05-24 08:04:42,592 - INFO - Tempo de execução: 4.176921606063843
+2023-05-24 08:04:42,592 - INFO - Fim do gerador
+2023-05-24 08:04:42,598 - INFO - Executando o indexador.py
+2023-05-24 08:04:42,598 - INFO - Abrindo o arquivo de configuração
+2023-05-24 08:04:42,598 - INFO - tf-idf maximo
+2023-05-24 08:04:42,598 - INFO - fechando o arquivo de configuração
+2023-05-24 08:04:42,598 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-24 08:04:42,944 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-24 08:04:42,945 - INFO - linhas lidas 6406
+2023-05-24 08:04:42,945 - INFO - palavras lidas 6241
+2023-05-24 08:04:42,945 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-24 08:04:43,499 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-24 08:04:43,499 - INFO - Palavras escritas 65970
+2023-05-24 08:04:43,499 - INFO - Tempo de execução: 5.0833399295806885
+2023-05-24 08:04:43,500 - INFO - Fim do inbdexador
+2023-05-24 08:04:43,509 - INFO - Executando o buscador.py
+2023-05-24 08:04:43,510 - INFO - Abrindo o arquivo de configuração
+2023-05-24 08:04:43,510 - INFO - fechando o arquivo de configuração
+2023-05-24 08:04:43,511 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-24 08:04:43,882 - INFO - Fechando o arquivo de results/model.csv
+2023-05-24 08:04:43,882 - INFO - linhas lidas 65970
+2023-05-24 08:04:43,882 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-24 08:04:45,909 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-24 08:04:45,909 - INFO - linhas lidas 99
+2023-05-24 08:04:45,909 - INFO - linhas escritas 76823
+2023-05-24 08:04:45,909 - INFO - Tempo de execução: 7.490679979324341
+2023-05-24 08:04:45,909 - INFO - Fim do Buscador
+2023-05-24 08:04:45,921 - INFO - Tempo de execução: 7.502130508422852
+2023-05-24 08:04:45,921 - INFO - Fim do Programa

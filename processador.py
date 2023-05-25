@@ -3,6 +3,7 @@ import re
 import xml.etree.ElementTree as ET
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
 import logging
 import os
 import time
@@ -30,12 +31,24 @@ def process_text(text):
 
 start_time = time.time()
 def processador():
+    stem = False
     cfg_file="PC.CFG"
     logger.info(f"Executando o processador.py ")
     # lê o arquivo de configuração
     with open("configs/PC.CFG", "r") as f:
         logger.info(f"Abrindo o aquirvo de configuração {cfg_file}")
         for line in f:
+            line = line.rstrip()
+
+            if line == "STEMMER":
+                logger.info("Escolhida a configuração de fazer stemming das consultas")                
+                stemmer = PorterStemmer()
+                stem = True
+                continue
+            elif line == "NOSTEMMER":
+                logger.info("Escolhida a configuração de não fazer stemming das consultas")
+                
+                continue
             
             if line.startswith("LEIA="):
                 xml_file = line.strip()[5:]
@@ -55,7 +68,7 @@ def processador():
     
     # processa as consultas e gera os arquivos de saída
     with open(consultas_file, "w", newline="") as f1, open(esperados_file, "w", newline="") as f2:
-        logger.info(f'Abrindo o aquirvo xml {xml_file}, consultas {consultas_file}  e esperados {esperados_file}')
+        logger.info(f'Abrindo o aquivo xml {xml_file}, consultas {consultas_file}  e esperados {esperados_file}')
 
         # lê o arquivo XML com as consultas
         tree = ET.parse(xml_file)
@@ -78,6 +91,8 @@ def processador():
             query_number = query.find("QueryNumber").text
             query_text = query.find("QueryText").text
             query_text = process_text(query_text) # remove caracteres especiais
+            if stem:
+                query_text= [stemmer.stem(word).upper() for word in query_text]
             writer_consultas.writerow([query_number, query_text])
             row_written_consultas+=1
             esperados_rows = []
@@ -93,7 +108,7 @@ def processador():
                 esperados_rows.append([query_number, doc_number, doc_votes])
                  
             writer_esperados.writerows(esperados_rows)
-    logger.info(f'Fechando o aquirvo xml {xml_file}, consultas {consultas_file} e esperados {esperados_file}') 
+    logger.info(f'Fechando o arquivo xml {xml_file}, consultas {consultas_file} e esperados {esperados_file}') 
     end_time = time.time()
     total_time= end_time-start_time
     logger.info(f"Tempo de execução: {total_time}")

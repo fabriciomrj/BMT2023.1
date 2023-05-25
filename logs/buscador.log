@@ -58,3 +58,101 @@
 2023-05-16 11:57:48,974 - INFO - linhas escritas 81370
 2023-05-16 11:57:48,974 - INFO - Tempo de execução: 2.693676710128784
 2023-05-16 11:57:48,974 - INFO - Fim do Buscador
+2023-05-23 15:05:02,562 - INFO - Executando o buscador.py
+2023-05-23 15:05:02,563 - INFO - Abrindo o arquivo de configuração
+2023-05-23 15:05:50,763 - INFO - Executando o buscador.py
+2023-05-23 15:05:50,763 - INFO - Abrindo o arquivo de configuração
+2023-05-23 15:05:50,763 - INFO - fechando o arquivo de configuração
+2023-05-23 15:05:50,763 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 15:05:50,931 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 15:05:50,931 - INFO - linhas lidas 70360
+2023-05-23 15:05:50,931 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 15:05:51,676 - INFO - Fechando o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 15:05:51,676 - INFO - linhas lidas 99
+2023-05-23 15:05:51,677 - INFO - linhas escritas 54702
+2023-05-23 15:05:51,677 - INFO - Tempo de execução: 0.9137532711029053
+2023-05-23 15:05:51,677 - INFO - Fim do Buscador
+2023-05-23 16:12:25,843 - INFO - Executando o buscador.py
+2023-05-23 16:12:25,844 - INFO - Abrindo o arquivo de configuração
+2023-05-23 16:12:25,844 - INFO - fechando o arquivo de configuração
+2023-05-23 16:12:25,844 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 16:12:26,007 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 16:12:26,007 - INFO - linhas lidas 70360
+2023-05-23 16:12:26,007 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 16:12:26,750 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 16:12:26,750 - INFO - linhas lidas 99
+2023-05-23 16:12:26,750 - INFO - linhas escritas 54702
+2023-05-23 16:12:26,750 - INFO - Tempo de execução: 0.9063544273376465
+2023-05-23 16:12:26,750 - INFO - Fim do Buscador
+2023-05-23 16:13:59,572 - INFO - Executando o buscador.py
+2023-05-23 16:13:59,572 - INFO - Abrindo o arquivo de configuração
+2023-05-23 16:13:59,572 - INFO - fechando o arquivo de configuração
+2023-05-23 16:13:59,572 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 16:13:59,729 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 16:13:59,729 - INFO - linhas lidas 67111
+2023-05-23 16:13:59,730 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 16:14:00,964 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 16:14:00,964 - INFO - linhas lidas 99
+2023-05-23 16:14:00,964 - INFO - linhas escritas 87945
+2023-05-23 16:14:00,964 - INFO - Tempo de execução: 4.531604290008545
+2023-05-23 16:14:00,964 - INFO - Fim do Buscador
+2023-05-23 19:53:46,829 - INFO - Executando o buscador.py
+2023-05-23 19:53:46,829 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:53:46,829 - INFO - fechando o arquivo de configuração
+2023-05-23 19:53:46,830 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 19:53:47,082 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 19:53:47,082 - INFO - linhas lidas 70360
+2023-05-23 19:53:47,083 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 19:53:48,839 - INFO - Fechando o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 19:53:48,840 - INFO - linhas lidas 99
+2023-05-23 19:53:48,840 - INFO - linhas escritas 81370
+2023-05-23 19:53:48,840 - INFO - Tempo de execução: 4.358081102371216
+2023-05-23 19:53:48,840 - INFO - Fim do Buscador
+2023-05-23 19:56:38,330 - INFO - Executando o buscador.py
+2023-05-23 19:56:38,331 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:56:38,331 - INFO - fechando o arquivo de configuração
+2023-05-23 19:56:38,331 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 19:56:38,588 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 19:56:38,588 - INFO - linhas lidas 69298
+2023-05-23 19:56:38,589 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 19:56:40,006 - INFO - Fechando o arquivo  results/consultas.csv e results/results-nostemmer.csv
+2023-05-23 19:56:40,006 - INFO - linhas lidas 99
+2023-05-23 19:56:40,006 - INFO - linhas escritas 68326
+2023-05-23 19:56:40,006 - INFO - Tempo de execução: 4.058709621429443
+2023-05-23 19:56:40,006 - INFO - Fim do Buscador
+2023-05-23 19:57:19,227 - INFO - Executando o buscador.py
+2023-05-23 19:57:19,228 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:57:19,228 - INFO - fechando o arquivo de configuração
+2023-05-23 19:57:19,228 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-23 19:57:19,461 - INFO - Fechando o arquivo de results/model.csv
+2023-05-23 19:57:19,461 - INFO - linhas lidas 65970
+2023-05-23 19:57:19,462 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 19:57:21,156 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-23 19:57:21,156 - INFO - linhas lidas 99
+2023-05-23 19:57:21,156 - INFO - linhas escritas 76823
+2023-05-23 19:57:21,156 - INFO - Tempo de execução: 6.803253173828125
+2023-05-23 19:57:21,156 - INFO - Fim do Buscador
+2023-05-24 07:58:27,513 - INFO - Executando o buscador.py
+2023-05-24 07:58:27,514 - INFO - Abrindo o arquivo de configuração
+2023-05-24 07:58:27,514 - INFO - fechando o arquivo de configuração
+2023-05-24 07:58:27,515 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-24 07:58:27,928 - INFO - Fechando o arquivo de results/model.csv
+2023-05-24 07:58:27,928 - INFO - linhas lidas 65970
+2023-05-24 07:58:27,929 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-24 07:58:29,529 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-24 07:58:29,529 - INFO - linhas lidas 99
+2023-05-24 07:58:29,529 - INFO - linhas escritas 990
+2023-05-24 07:58:29,529 - INFO - Tempo de execução: 7.11917781829834
+2023-05-24 07:58:29,529 - INFO - Fim do Buscador
+2023-05-24 08:04:43,509 - INFO - Executando o buscador.py
+2023-05-24 08:04:43,510 - INFO - Abrindo o arquivo de configuração
+2023-05-24 08:04:43,510 - INFO - fechando o arquivo de configuração
+2023-05-24 08:04:43,511 - INFO - Abrindo o arquivo de results/model.csv
+2023-05-24 08:04:43,882 - INFO - Fechando o arquivo de results/model.csv
+2023-05-24 08:04:43,882 - INFO - linhas lidas 65970
+2023-05-24 08:04:43,882 - INFO - Abrindo o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-24 08:04:45,909 - INFO - Fechando o arquivo  results/consultas.csv e results/results-stemmer.csv
+2023-05-24 08:04:45,909 - INFO - linhas lidas 99
+2023-05-24 08:04:45,909 - INFO - linhas escritas 76823
+2023-05-24 08:04:45,909 - INFO - Tempo de execução: 7.490679979324341
+2023-05-24 08:04:45,909 - INFO - Fim do Buscador

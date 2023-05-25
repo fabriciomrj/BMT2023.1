@@ -19,16 +19,33 @@ logger.addHandler(file_handler)
 
 start_time = time.time()
 def buscador():
+    stem = False
     logger.info(f'Executando o buscador.py')
     with open('configs/BUSCA.CFG', 'r') as file :
         logger.info(f'Abrindo o arquivo de configuração')
         for line in file:
+            line = line.rstrip()
+
+            if line == "STEMMER":
+                stem = True
+                continue
+            elif line == "NOSTEMMER":
+                
+                continue
+
             if line.startswith("MODELO="):
                 model_file_name = line.strip()[7:]
             elif line.startswith('CONSULTAS='):
                 consult_file_name = line.strip()[10:]
             elif line.startswith('RESULTADOS='):
                 result_file_name = line.strip()[11:]  
+                oldname, extension = result_file_name.split('.')
+
+                if stem:
+                    result_file_name = oldname + "-stemmer." + extension
+                else:
+                    result_file_name = oldname + "-nostemmer." + extension
+
     logger.info(f'fechando o arquivo de configuração') 
     matrix_dict={}            
     rows_read_model=0
@@ -61,7 +78,7 @@ def buscador():
             debu+=1
             words=ast.literal_eval(row['query'])
             
-            word= [word for word in words if len(word) >1]
+            word= [word for word in words if len(word) >2]
             
             query=Counter(word)
             query_vec=[]

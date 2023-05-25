@@ -117,3 +117,81 @@
 2023-05-16 11:57:47,707 - INFO - Palavras escritas 70360
 2023-05-16 11:57:47,707 - INFO - Tempo de execução: 1.4282357692718506
 2023-05-16 11:57:47,707 - INFO - Fim do inbdexador
+2023-05-23 16:13:59,135 - INFO - Executando o indexador.py
+2023-05-23 16:13:59,167 - INFO - Abrindo o arquivo de configuração
+2023-05-23 16:13:59,168 - INFO - tf-idf maximo
+2023-05-23 16:13:59,168 - INFO - fechando o arquivo de configuração
+2023-05-23 16:13:59,168 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 16:13:59,380 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-23 16:13:59,380 - INFO - linhas lidas 6406
+2023-05-23 16:13:59,380 - INFO - palavras lidas 6389
+2023-05-23 16:13:59,382 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 16:13:59,570 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-23 16:13:59,570 - INFO - Palavras escritas 67111
+2023-05-23 16:13:59,570 - INFO - Tempo de execução: 3.1382994651794434
+2023-05-23 16:13:59,570 - INFO - Fim do inbdexador
+2023-05-23 19:53:46,104 - INFO - Executando o indexador.py
+2023-05-23 19:53:46,105 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:53:46,105 - INFO - tf-idf maximo
+2023-05-23 19:53:46,105 - INFO - fechando o arquivo de configuração
+2023-05-23 19:53:46,105 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:53:46,464 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:53:46,464 - INFO - linhas lidas 9285
+2023-05-23 19:53:46,464 - INFO - palavras lidas 9268
+2023-05-23 19:53:46,464 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:53:46,824 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:53:46,824 - INFO - Palavras escritas 70360
+2023-05-23 19:53:46,825 - INFO - Tempo de execução: 2.343177556991577
+2023-05-23 19:53:46,825 - INFO - Fim do inbdexador
+2023-05-23 19:56:37,644 - INFO - Executando o indexador.py
+2023-05-23 19:56:37,645 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:56:37,645 - INFO - tf-idf maximo
+2023-05-23 19:56:37,645 - INFO - fechando o arquivo de configuração
+2023-05-23 19:56:37,645 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:56:37,998 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:56:37,998 - INFO - linhas lidas 9285
+2023-05-23 19:56:37,998 - INFO - palavras lidas 9135
+2023-05-23 19:56:37,999 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:56:38,326 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:56:38,326 - INFO - Palavras escritas 69298
+2023-05-23 19:56:38,326 - INFO - Tempo de execução: 2.3817386627197266
+2023-05-23 19:56:38,327 - INFO - Fim do inbdexador
+2023-05-23 19:57:18,594 - INFO - Executando o indexador.py
+2023-05-23 19:57:18,595 - INFO - Abrindo o arquivo de configuração
+2023-05-23 19:57:18,595 - INFO - tf-idf maximo
+2023-05-23 19:57:18,595 - INFO - fechando o arquivo de configuração
+2023-05-23 19:57:18,595 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:57:18,923 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:57:18,924 - INFO - linhas lidas 6406
+2023-05-23 19:57:18,924 - INFO - palavras lidas 6241
+2023-05-23 19:57:18,924 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-23 19:57:19,223 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-23 19:57:19,223 - INFO - Palavras escritas 65970
+2023-05-23 19:57:19,224 - INFO - Tempo de execução: 4.870663166046143
+2023-05-23 19:57:19,224 - INFO - Fim do inbdexador
+2023-05-24 07:58:26,578 - INFO - Executando o indexador.py
+2023-05-24 07:58:26,606 - INFO - Abrindo o arquivo de configuração
+2023-05-24 07:58:26,607 - INFO - tf-idf maximo
+2023-05-24 07:58:26,607 - INFO - fechando o arquivo de configuração
+2023-05-24 07:58:26,607 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-24 07:58:26,935 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-24 07:58:26,935 - INFO - linhas lidas 6406
+2023-05-24 07:58:26,935 - INFO - palavras lidas 6241
+2023-05-24 07:58:26,984 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-24 07:58:27,509 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-24 07:58:27,509 - INFO - Palavras escritas 65970
+2023-05-24 07:58:27,509 - INFO - Tempo de execução: 5.101422548294067
+2023-05-24 07:58:27,510 - INFO - Fim do inbdexador
+2023-05-24 08:04:42,598 - INFO - Executando o indexador.py
+2023-05-24 08:04:42,598 - INFO - Abrindo o arquivo de configuração
+2023-05-24 08:04:42,598 - INFO - tf-idf maximo
+2023-05-24 08:04:42,598 - INFO - fechando o arquivo de configuração
+2023-05-24 08:04:42,598 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-24 08:04:42,944 - INFO - fechando o arquivo de results/inverted_list.csv
+2023-05-24 08:04:42,945 - INFO - linhas lidas 6406
+2023-05-24 08:04:42,945 - INFO - palavras lidas 6241
+2023-05-24 08:04:42,945 - INFO - Abrindo o arquivo de results/inverted_list.csv
+2023-05-24 08:04:43,499 - INFO - Fechando o arquivo de results/inverted_list.csv
+2023-05-24 08:04:43,499 - INFO - Palavras escritas 65970
+2023-05-24 08:04:43,499 - INFO - Tempo de execução: 5.0833399295806885
+2023-05-24 08:04:43,500 - INFO - Fim do inbdexador

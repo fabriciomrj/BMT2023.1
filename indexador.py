@@ -50,7 +50,7 @@ def indexador():
             word = line['word']
             freq=defaultdict(int)
             #pegas as palavras maiores que 1
-            if len(word) > 1:
+            if len(word) > 2:
                 words_read+=1
                 line_documents = ast.literal_eval(line['documents'])
                 
